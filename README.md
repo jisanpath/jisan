@@ -26,11 +26,11 @@ Veterinary Science | Molecular Epidemiology | Antimicrobial Resistance | Bioinfo
 
 | Level | Category | Skills |
 |---|---|---|
-| ✅ Experienced | Laboratory | RNA Extraction · Primer Design · PCR · ELISA · Gel Electrophoresis · Bacterial Culture |
-| ✅ Experienced | Research & Analysis | R · SPSS · Stata 18 · Excel · ArcGIS · KoboToolbox · Systematic Review & Meta-analysis |
-| ✅ Experienced | Sequence Analysis | BLAST · Phylogenetic Tree Construction · RNA-seq Analysis |
-| 📘 Developing | Bioinformatics | FastQC · Trimmomatic · Flye · SPAdes · BUSCO · Prokka · Bowtie2 · ABRicate · Roary · IGV · Circos · BRIG · CGView |
-| 🧰 Other | Platforms & Tools | Linux · Windows · Mendeley · EndNote · BioRender · Canva |
+| Experienced | Laboratory | RNA Extraction · Primer Design · PCR · ELISA · Gel Electrophoresis · Bacterial Culture |
+| Experienced | Research & Analysis | R · SPSS · Stata 18 · Excel · ArcGIS · KoboToolbox · Systematic Review & Meta-analysis |
+| Experienced | Sequence Analysis | BLAST · Phylogenetic Tree Construction · RNA-seq Analysis |
+| Developing | Bioinformatics | FastQC · Trimmomatic · Flye · SPAdes · BUSCO · Prokka · Bowtie2 · ABRicate · Roary · IGV · Circos · BRIG · CGView |
+| Other | Platforms & Tools | Linux · Windows · Mendeley · EndNote · BioRender · Canva |
 
 ---
 
@@ -119,7 +119,7 @@ Veterinary Science | Molecular Epidemiology | Antimicrobial Resistance | Bioinfo
 ---
 
 ### 📬 Connect with Me
-* 📧 Email: [jisan.path1506605@sau.edu.bd](mailto:jisan.path1506605@sau.edu.bd)
+* 📧 Email: [jisan.path1506605@sau.edu.bd](mailto:jisan.path1506605@sau.edu.bd) and [jisan.path@sau.edu.bd] (mailto:jisan.path@sau.edu.bd)
 * 🔗 ORCID: [0000-0002-5113-520X](https://orcid.org/0000-0002-5113-520X)
 <!-- Add when ready:
 * 🎓 Google Scholar: [Profile](URL)
