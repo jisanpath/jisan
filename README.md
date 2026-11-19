@@ -119,7 +119,7 @@ Veterinary Science | Molecular Epidemiology | Antimicrobial Resistance | Bioinfo
 ---
 
 ### 📬 Connect with Me
-* 📧 Email: [jisan.path1506605@sau.edu.bd](mailto:jisan.path1506605@sau.edu.bd) and [jisan.path@sau.edu.bd] (mailto:jisan.path@sau.edu.bd)
+* 📧 Email: [jisan.path1506605@sau.edu.bd](mailto:jisan.path1506605@sau.edu.bd) and [jisan.path@sau.edu.bd].(mailto:jisan.path@sau.edu.bd)
 * 🔗 ORCID: [0000-0002-5113-520X](https://orcid.org/0000-0002-5113-520X)
 <!-- Add when ready:
 * 🎓 Google Scholar: [Profile](URL)
